@@ -1,0 +1,6 @@
+body { background:#f5f7fb; }
+.leaflet-container { border-radius:8px; box-shadow: 0 6px 18px rgba(20,20,50,0.08); }
+.app-shell { padding:18px; }
+.side-card { margin-bottom:16px; }
+.small-muted { font-size:0.9rem; color:#6b7280; }
+.alert-item { padding:8px 10px; border-radius:6px; margin-bottom:8px; background:white; box-shadow:0 1px 4px rgba(15,15,15,0.03); }
